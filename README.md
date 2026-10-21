@@ -57,7 +57,3 @@ python bpe.py train path/to/english.txt path/to/persian.txt --num-merges 200 --m
 - Vocabulary: characters plus newly learned merged tokens
 - Merge: merge of the most frequent adjacent token pair
 - ZWNJ: zero-width non-joiner (Persian half-space)
-
-## Before you submit
-
-Rename `student_id_HW1` to replace `student_id` with your own student ID. Keep the exact internal filenames. Read the PDF and confirm the instructor accepts the teaching corpus choice and the reduced submission structure (training texts excluded at their requested file-tree size).
